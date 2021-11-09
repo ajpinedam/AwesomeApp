@@ -1,0 +1,3 @@
+namespace AwesomeApp.Skia.Gtk
+{
+}
